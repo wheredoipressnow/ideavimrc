@@ -100,5 +100,5 @@ set clipboard+=ideaput
 set functiontextobj
 set surround
 
-" Make 'p' and 'P' not tank the replaced text
+" Make 'p' and 'P' not yank the replaced text
 xnoremap p "_dP
