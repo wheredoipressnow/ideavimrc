@@ -6,7 +6,7 @@
 " Source your _vimrc
 " source ~/_vimrc
 
-set mapleader = " "
+let mapleader=" "
 
 " --------------------------------------
 " which-key plugin
